@@ -1,0 +1,13 @@
+[SERVER]
+pc_ip = 10.38.218.39
+pc_port = 9440
+pc_username = admin
+pc_password = nxTech2020!
+
+[PROJECT]
+name = default
+
+[LOG]
+level = INFO
+
+[CATEGORIES]
